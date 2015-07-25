@@ -1,8 +1,5 @@
-Code Book
-This document describes the variables presented in tidy.txt.
 
-subject - Subject ID #
-activity - The activity performed when the corresponding measurements were taken
+This document describes the variables presented in tidy.txt.
 
 Measurements
 
@@ -89,6 +86,8 @@ fBodyBodyGyroJerkMagMEAN
 fBodyBodyGyroJerkMagSTD
 fBodyBodyGyroJerkMagMEANFreq
 
+subject - Subject ID #
+activity - The activity performed when the corresponding measurements were taken
 
 Activity Labels
 
